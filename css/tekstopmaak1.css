@@ -1,0 +1,46 @@
+
+/* TODO 4: Stel de font-size van de paragraaf met de klasse .abs in op 16px */
+.abs {
+    font-size: 16px;
+}
+/* TODO 5: Stel de font-size van de paragraaf met de klasse .rel in op 1.5em */
+.rel {
+    font-size: 1.5em;
+}
+/*TODO 6: class="bold" => vetgedrukt*/
+.bold {
+    font-weight: bold;
+}
+/* TODO 7: class="italic" => cursief */
+.italic {
+    font-style: italic;
+}
+
+/* TODO 8: class="bold-italic" => vetgedrukt en cursief */
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+/* TODO 9: class="fijnste" => fijnste weergave (100) */
+.fijnste {
+    font-weight: 100;
+}
+
+/* TODO 10: class="normaal" => normale weergave (400) */
+.normaal {
+    font-weight: 400;
+}
+
+/* TODO 11: class="dikke" => dikke weergave (700) */
+.dikke {
+    font-weight: 700;
+}
+/* TODO 12: Gebruik het lettertype Arial voor de eerste paragraaf */
+.ff1 {
+    font-family: Arial;
+}
+
+/* TODO 13: Gebruik het lettertype Times New Roman voor de tweede paragraaf */
+.ff2 {
+    font-family: "Times New Roman";
+}
