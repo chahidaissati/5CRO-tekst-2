@@ -1,0 +1,15 @@
+
+/* TODO 4: class="letter-spacing" => verhoogt de afstand tussen letters naar 2px */
+.letter-spacing {
+    letter-spacing: 2px;
+}
+
+/* TODO 5: class="line-height" => verhoogt de lijnhoogte naar 1.5 */
+.line-height {
+    line-height: 1.5;
+}
+
+/* TODO 6: class="word-spacing" => verhoogt de afstand tussen woorden naar 5px */
+.word-spacing {
+    word-spacing: 5px;
+}

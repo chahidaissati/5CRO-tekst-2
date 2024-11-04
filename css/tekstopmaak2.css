@@ -1,0 +1,49 @@
+/* TODO 4: class="links" => tekst links uitgelijnd */
+.links {
+    text-align: left;
+}
+
+/* TODO 5: class="midden" => tekst gecentreerd */
+.midden {
+    text-align: center;
+}
+
+/* TODO 6: class="rechts" => tekst rechts uitgelijnd */
+.rechts {
+    text-align: right;
+}
+
+/* TODO 7: class="onder" => tekst onderlijnd */
+.onder {
+    text-decoration: underline;
+}
+
+/* TODO 8: class="door" => tekst doorgehaald/doorgestreept */
+.door {
+    text-decoration: line-through;
+}
+
+/* TODO 9: Zorg bij paragraaf met class "insprong1" voor een insprong van de eerste regel op 40px. */
+.insprong1 {
+    text-indent: 40px;
+}
+
+/* TODO 10: Zorg bij paragraaf met class "insprong2" voor een insprong van de eerste regel op 10%. */
+.insprong2 {
+    text-indent: 10%;
+}
+
+/* TODO 11: class="kast1" => ALLES IN HOOFDLETTERS */
+.kast1 {
+    text-transform: uppercase;
+}
+
+/* TODO 12: class="kast2" => alles in kleine letters */
+.kast2 {
+    text-transform: lowercase;
+}
+
+/* TODO 13: class="kast3" => Elk Nieuw Woord Met Hoofdletter */
+.kast3 {
+    text-transform: capitalize;
+}
